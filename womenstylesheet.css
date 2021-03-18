@@ -1,12 +1,21 @@
 body { 
     background-color: black;
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 ol {
     font-size: 20px;
-    color: blueviolet
+    color: blue;
 }
 h1 {
     font-style: italic;
     font-style: bold;
     color: red;
+}
+img {
+    border-radius: 30px;
 }
